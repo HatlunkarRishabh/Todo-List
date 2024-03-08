@@ -1,16 +1,18 @@
 # todo_lisr
 
-A new Flutter project.
-
+It is Todo list project. 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Here the TODO list has the functionalities: 
+    i) Add a Todo 
+   ii) Delete a Todo
+  iii) Mark a Todo as Done 
 
-A few resources to get you started if this is your first Flutter project:
+It is Basic under Testing Application without Database 
+Any help you wish to do can be done By Contacting on Instagram:- 
+@ import_rish_hat
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Git Author : Rishabh Hatlunkar 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
